@@ -19,16 +19,16 @@ dictionary: https://dictionary.cambridge.org/vi/
 8. apricot
 9. rambutan
 10. peach 
-
+-----
 ## berry 
 1. blueberry
 2. strawberry
 3. raspberry
-
+-----
 1. apple 
 2. pineapple
 3. banana
-
+-----
 1. durian
 2. grape
 3. kiwi
