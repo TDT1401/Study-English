@@ -26,6 +26,7 @@
 | 20  | have a rest = take a break                     |
 | 21  | make mistakes /mɪˈsteɪk/                       |
 | 22  | athlete /ˈæθ.liːt/                             |
+| 23  | Convenience store /kənˈviː.ni.əns/             |
 
 ## WH question and sentences
 
@@ -45,9 +46,11 @@ Yes, I do. I like it
 7. How often are you ... ?
 
 - 2 hours off. I spend an hour sleeping and the rest of the time I play games
-
+- There are more than 7,000 convenience stores in Tokyo
 ## Grammar
 
 - I like + V(ing)
 - I dislike + V(ing)
 - I habit + V(ing)
+
+![image](https://4.bp.blogspot.com/-QFBU1BFOUx0/WZg-ORGcrgI/AAAAAAAAEbI/pjzpnEZZtoQlTsnAaZvQ6nOCFv8D1s7SwCLcBGAs/s1600/14680566_915478225220313_1554247051327951298_n.jpg)
