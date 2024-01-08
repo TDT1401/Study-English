@@ -44,9 +44,16 @@ Yes, I do. I like it
 5. What do you like?
 6. How often do you ... ?
 7. How often are you ... ?
+8. What do you think ? 
 
 - 2 hours off. I spend an hour sleeping and the rest of the time I play games
 - There are more than 7,000 convenience stores in Tokyo
+
+### USEFUL LANGUAGE
+- May be (painting) course is good for ...
+- I think the (sailling course) is good for her ...
+- because she likes being outside
+
 ## Grammar
 
 - I like + V(ing)
