@@ -52,5 +52,5 @@ Yes, I do. I like it
 - I like + V(ing)
 - I dislike + V(ing)
 - I habit + V(ing)
-- "day "on" hours "at" month years "in""
+- day "on" hours "at" month years "in" (Ngày ôm giờ ấp tháng năm iu)
 ![image](https://4.bp.blogspot.com/-QFBU1BFOUx0/WZg-ORGcrgI/AAAAAAAAEbI/pjzpnEZZtoQlTsnAaZvQ6nOCFv8D1s7SwCLcBGAs/s1600/14680566_915478225220313_1554247051327951298_n.jpg)
