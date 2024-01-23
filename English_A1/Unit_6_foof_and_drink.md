@@ -22,35 +22,41 @@
 14. a sandwich
 15. fruit /fruːt/
 16. onions - /ˈʌn.jən/
+
 - I always cry when I'm chopping onions.
 - Fry the onion and garlic for about two minutes.
 
 17. delicious = tasty /ˈteɪ.sti/ = yummy
-18. sauce /sɑːs/ 
+18. sauce /sɑːs/
+
 - a thick liquid eaten with food to add flavour:
 - a savoury/sweet sauce
 - tomato sauce
 
 19. busy = crowded /ˈkraʊ.dɪd/
 20. view great
-21. downtown = in the heart of the city 
+21. downtown = in the heart of the city
 22. quite good
-23. affordable price /əˈfɔːr.də.bəl/ 
+23. affordable price /əˈfɔːr.də.bəl/
+
 - not expensive:
 - nice clothes at affordable prices
-24. it's comfortable /ˈkʌm.fɚ.t̬ə.bəl/ = it gives me homely feeling 
+
+24. it's comfortable /ˈkʌm.fɚ.t̬ə.bəl/ = it gives me homely feeling
+
 - Comfortable furniture and clothes provide a pleasant feeling and do not give you any physical problems:
 - a comfortable bed/sofa
 - comfortable shoes/trousers
+
 25. atmosphere /ˈæt.mə.sfɪr/
-26. warm inviting 
+26. warm inviting
 27. cozy
-28. lively 
+28. lively
 29. food = cuisine /kwɪˈziːn/
 30. diverse menu /dɪˈvɝːs/
-31. borken rice 
+31. borken rice
 32. efficient /ɪˈfɪʃ.ənt/
-33. keep the change 
+33. keep the change
 34. a typical dish /ˈtɪp.ɪ.kəl/ /dɪʃ/
 
 ## Grammar
@@ -105,3 +111,10 @@
 9. There are olives on the blanket
 10. There are eggs on the blanket
 11. there's apple juice on the blanket
+12. For daily meals or special occasions
+
+## speaking
+
+- My favorite place to eat is Viet Nam house restaurant. It's in Ho Chi Minh city. Near in the heart of the city, at 15 Nguyen Hue District 1. They serve Vietnamese dishes. For example bun bo. I like it because the staff is warm inviting and friendly, affordable prices and lively atmosphere.
+
+- My favorite Vietnamese dish is banh tet. It is often used for special occasions, such as the Lunar New Year. Its ingredients are some meat; there is stick rice; there aren't any onions. The way to make the cake is quite complicated, including wrapping the cake and boiling it for 8 hours. I like it because it is traditional Vietnamese food and delicious
