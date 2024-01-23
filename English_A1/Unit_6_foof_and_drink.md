@@ -17,15 +17,40 @@
 9. biscuits - /ˈbɪs.kɪt/
 10. bread
 11. tomatoes - /təˈmeɪ.t̬oʊ/
-12. orange juice
+12. orange juice /dʒuːs/
 13. chicken
 14. a sandwich
-15. fruit
+15. fruit /fruːt/
 16. onions - /ˈʌn.jən/
-
 - I always cry when I'm chopping onions.
 - Fry the onion and garlic for about two minutes.
 
+17. delicious = tasty /ˈteɪ.sti/ = yummy
+18. sauce /sɑːs/ 
+- a thick liquid eaten with food to add flavour:
+- a savoury/sweet sauce
+- tomato sauce
+
+19. busy = crowded /ˈkraʊ.dɪd/
+20. view great
+21. downtown = in the heart of the city 
+22. quite good
+23. affordable price /əˈfɔːr.də.bəl/ 
+- not expensive:
+- nice clothes at affordable prices
+24. it's comfortable /ˈkʌm.fɚ.t̬ə.bəl/ = it gives me homely feeling 
+- Comfortable furniture and clothes provide a pleasant feeling and do not give you any physical problems:
+- a comfortable bed/sofa
+- comfortable shoes/trousers
+25. atmosphere /ˈæt.mə.sfɪr/
+26. warm inviting 
+27. cozy
+28. lively 
+29. food = cuisine /kwɪˈziːn/
+30. diverse menu /dɪˈvɝːs/
+31. borken rice 
+32. efficient /ɪˈfɪʃ.ənt/
+33. keep the change 
 ## Grammar
 
 - Countable nouns: things you can count
