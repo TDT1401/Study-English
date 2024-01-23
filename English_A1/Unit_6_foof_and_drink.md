@@ -51,6 +51,8 @@
 31. borken rice 
 32. efficient /ɪˈfɪʃ.ənt/
 33. keep the change 
+34. a typical dish /ˈtɪp.ɪ.kəl/ /dɪʃ/
+
 ## Grammar
 
 - Countable nouns: things you can count
