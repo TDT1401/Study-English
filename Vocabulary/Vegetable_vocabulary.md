@@ -1,5 +1,10 @@
 # Vegetable Vocabulary
 
+## slide 
+https://docs.google.com/presentation/d/1KomvLGOGprCAFJy_RRp4eVBNO1P9UesfhIt8baPYlVc/edit?usp=sharing
+
+
+## Vocabulary
 | STT | VOCABULARY                   | translate |
 | --- | ---------------------------- | --------- |
 | 1   | cabbage /ˈkæb.ɪdʒ/           |           |
@@ -10,16 +15,16 @@
 | 6   | turnip /ˈtɝː.nɪp/            |           |
 | 7   | spinach /ˈspɪn.ɪtʃ/          |           |
 | 8   | radishes                     |           |
-| 9   | zucchini                     |           |
-| 10  | pumpkin                      |           |
+| 9   | zucchnini /zuːˈkiː.ni/       |           |
+| 10  | pumpkin /ˈpʌmp.kɪn/          |           |
 | 11  | acorn squash                 |           |
-| 12  | potatoes                     |           |
+| 12  | potatoes /pəˈteɪ.t̬oʊ/        |           |
 | 13  | pea                          |           |
-| 14  | onion                        |           |
-| 15  | garlic                       |           |
-| 16  | eggplant                     |           |
-| 17  | cucumber                     |           |
-| 18  | corn                         |           |
+| 14  | onion /ˈʌn.jən/              |           |
+| 15  | garlic /ˈɡɑːr.lɪk/           |           |
+| 16  | eggplant /ˈeɡ.plænt/         |           |
+| 17  | cucumber /ˈkjuː.kʌm.bɚ/      |           |
+| 18  | corn /kɔːrn/                 |           |
 | 19  | broccoli                     |           |
 | 20  | beetroot                     |           |
 | 21  | celery                       |           |
