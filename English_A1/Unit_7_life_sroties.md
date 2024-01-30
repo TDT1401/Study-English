@@ -23,3 +23,40 @@
 18. born /bɔːrn/
 19. childhood
 20. tuesday
+
+
+## Question
+
+1. Go shopping for clothes? 
+- When did you last go shopping for clothes? 
+- I last went shopping for clothes on Saturday. I bought a pair of jeans.
+
+2. Go to the cinema? 
+- When did you last go to the cinema? 
+
+3. Go to the hairdresser's? 
+- when did you last go to the hairdresser's? 
+
+4. Play sport? 
+- When did you last play sport? 
+
+5. Go swimming in the sea? 
+- When did you last go swimming in the sea? 
+
+6. cook a meal? 
+- When did you last cook a meal? 
+
+7. send a text message? 
+- When did you last send a text message? 
+
+8. travel by train? 
+- When did you last travel by train? 
+
+9. check your email?
+- When did you last check your email? 
+
+10. have a holiday? 
+
+11. play game? 
+
+12. get up early on monday?
