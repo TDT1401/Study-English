@@ -1,7 +1,6 @@
 # UNIT7: LIFE STORIES 
 
 ## Vocabulary 
-
 1. dessert  /dɪˈzɝːt/
 2. provide # give 
 3. introvert /ˈɪn.trə.vɝːt/ # ambivert /ˈæm.bɪ.vɝːt/ # extrovert  /ˈek.strə.vɝːt/

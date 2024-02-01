@@ -1,5 +1,8 @@
 # HOME VOCABULARY
 
+## Link
+https://docs.google.com/presentation/d/1-ZnqmY4ebuCrfUHqc5iT7dapv7avzqhr4nmW4_kP4b4/edit#slide=id.p
+
 ## Types of home
 
 | STT | VOCABULARY       |
